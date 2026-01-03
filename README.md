@@ -3,7 +3,7 @@ This script searches the current folder and will combine multiple .vtt files, in
 > 
 > Speaker2: [HH:MM:SS:mmm] Other text that is spoken.
 
-The primary use of this is to combine transcripts from TTRPG sessions played through [Discord](https://discord.com/), and recorded using [Craig](https://github.com/CraigChat/craig).
+The primary use of this is to combine .vtt files from TTRPG sessions played through [Discord](https://discord.com/), and recorded using [Craig](https://github.com/CraigChat/craig).
 
 The script will prompt the user to clarify the names of each speaker. If nothing is entered, it will use the filename of the .vtt file as the speaker.
 The script also searches for phrases or repetitions which are common hallucinations from [Whisper AI](https://github.com/openai/whisper) and filters them out.
