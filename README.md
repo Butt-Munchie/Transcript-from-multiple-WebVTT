@@ -1,5 +1,6 @@
 This script searches the current folder and will combine multiple .vtt files, into a text file with transcription format.
 > Speaker1: [HH:MM:SS:mmm] Text that is spoken.
+
 > Speaker2: [HH:MM:SS:mmm] Other text that is spoken.
 
 The primary use of this is to combine transcripts from TTRPG sessions played through [Discord](https://discord.com/), and recorded using [Craig](https://github.com/CraigChat/craig).
